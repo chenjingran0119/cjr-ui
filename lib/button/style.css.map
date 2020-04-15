@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://uidemo/components/button/pl-button.vue"],"names":[],"mappings":"AAaA,WACE,wBAAA,CACA,UAAY","file":"style.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n.pl-button {\n  background-color: yellowgreen;\n  color: white;\n}\n"]}
